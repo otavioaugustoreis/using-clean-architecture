@@ -1,0 +1,6 @@
+@usando_clean_architecture_HostAddress = http://localhost:5001
+
+GET {{usando_clean_architecture_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
